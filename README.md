@@ -20,10 +20,9 @@ This system allows faculty members to:
 
 | Name | Role | GitHub Username |
 |------|------|-----------------|
-| Member 1 | Backend & Database | @member1 |
-| Member 2 | Frontend & UI | @member2 |
-| Member 3 | Docker & DevOps | @member3 |
-| Member 4 | Analytics & Reports | @member4 |
+| Soban | Database Developer | @SOBAN-SAQIB |
+| Ahmed | CRUD + Authentication | @AHMED-IMTIAZ-DS |
+| Adil | Analytics + Deployment | @ADIL7T11 |
 
 ---
 
@@ -56,6 +55,8 @@ streamlit-postgres-assignment/
 ├── requirements.txt
 ├── .env.example
 └── README.md
+└── T_T_Assignment4_Reportt.pdf
+
 ```
 
 ---
